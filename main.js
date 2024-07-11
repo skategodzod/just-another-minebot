@@ -18,7 +18,7 @@ const brain = require('./brain.js');
 const bot = mineflayer.createBot({
 	host: "localhost",
 	username: "JABot",
-	version: "1.16.4",
+	version: "1.16.5",
 	viewDistance: "tiny",
 });
 
